@@ -1,6 +1,6 @@
 # Ryosuke Sakamoto
 
-*   **Email:** sakamoto@sumire-sakamoto.co.jp
+*   **X:** x.com/sumiresakamoto
 *   **LinkedIn:** linkedin.com/in/sumire-sakamoto
 
 ---
