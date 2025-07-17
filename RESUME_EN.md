@@ -28,7 +28,6 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 *   Designed and implemented an automated backup system, enhancing data security and disaster recovery capabilities.
 *   Improved operational efficiency by integrating a Content Management System (CMS), enabling non-technical staff to update site content and reducing developer workload.
 
----
 
 ### **General Manager** | Mirai Kodomo Gakuin
 *Kobe, Japan | April 2015 - September 2018*ｘ
