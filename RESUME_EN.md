@@ -42,14 +42,14 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ## Projects
 
-### **Project A: Re-implementing Git in PHP** | [GitHub Link](https://github.com/sumiredc/phpgit)
+### **Re-implementing Git in PHP** | [GitHub Link](https://github.com/sumiredc/phpgit)
 
 *   A personal project to rebuild the core functionalities of the Git version control system from scratch using only PHP.
 *   Implemented key features including the Myers diff algorithm to efficiently calculate differences between files.
 *   This project demonstrates a deep understanding of Git's internal data structures, such as blobs, trees, and commits.
 *   **Technologies:** PHP
 
-### **Project B: Passkey/WebAuthn Implementation Study** | [GitHub Link](https://github.com/sumiredc/webauthn)
+### **Passkey/WebAuthn Implementation Study** | [GitHub Link](https://github.com/sumiredc/webauthn)
 
 *   Developed a proof-of-concept application to validate the implementation of the FIDO2/WebAuthn standard for passwordless authentication.
 *   This project explores modern, secure authentication methods designed to replace traditional passwords.
@@ -57,7 +57,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project C: Recruitment Matching System**
+### **Recruitment Matching System**
 *   **Duration:** February 2025 - Present
 *   **Role:** Programmer
 *   **Overview:** Involved in the maintenance and code review of a recruitment and matching system for talent acquisition, working within a 10-person team.
@@ -66,7 +66,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project D: Data Migration Project**
+### **Data Migration Project**
 *   **Duration:** July 2024 - October 2024
 *   **Role:** Programmer
 *   **Overview:** Performed data migration in conjunction with the introduction of a new system, working in an 8-person team.
@@ -75,7 +75,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project E: Welfare System for People with Disabilities**
+### **Welfare System for People with Disabilities**
 *   **Duration:** March 2024 - September 2024
 *   **Role:** Programmer, Manager
 *   **Overview:** Developed a billing tool for a welfare system for people with disabilities, working in a team of 2+ members.
@@ -84,7 +84,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project F: Phone Booth Reservation System**
+### **Phone Booth Reservation System**
 *   **Duration:** December 2023 - January 2024
 *   **Role:** Programmer
 *   **Overview:** Developed a phone booth reservation management system for co-working spaces, utilizing App Router and Server Actions.
@@ -93,7 +93,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project G: Credit Card Application System**
+### **Credit Card Application System**
 *   **Duration:** June 2022 - September 2023
 *   **Role:** Tech Lead
 *   **Overview:** Fintech project: Credit card application management system, compliant with PCI DSS. Responsible for all processes from upstream to implementation and testing. Implemented a customer data registration function for 600,000 records. Conducted code reviews.
@@ -102,7 +102,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project H: Attendance Management System**
+### **Attendance Management System**
 *   **Duration:** March 2022 - June 2022
 *   **Role:** Programmer
 *   **Overview:** Developed an in-house attendance management system with time card, payroll calculation, and account management functions.
@@ -111,7 +111,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project I: Quiz Answering System**
+### **Quiz Answering System**
 *   **Duration:** June 2020 - January 2021
 *   **Role:** Programmer
 *   **Overview:** Developed a system for corporate training, featuring question/quiz registration, scoring, and graph output functions.
@@ -120,7 +120,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project J: Photo Sales System**
+### **Photo Sales System**
 *   **Duration:** September 2019 - April 2020
 *   **Role:** Programmer
 *   **Overview:** Developed a photo sales system with photo registration, facial recognition, purchase, and aggregation functions.
@@ -129,7 +129,7 @@ A versatile Software Engineer with 8 years of experience developing backend-focu
 
 ---
 
-### **Project K: Quiz Management System**
+### **Quiz Management System**
 *   **Duration:** October 2018 - February 2019
 *   **Role:** Programmer
 *   **Overview:** Developed a quiz management system with quiz creation, registration, and scoring functions.
