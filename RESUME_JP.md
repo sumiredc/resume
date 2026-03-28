@@ -1,9 +1,7 @@
 # Ryosuke Sakamoto (阪本 良介)
 
-| | |
-|---|---|
-| **X** | x.com/sumiresakamoto |
-| **LinkedIn** | linkedin.com/in/sumire-sakamoto |
+- x.com/sumiresakamoto
+- linkedin.com/in/sumire-sakamoto
 
 ---
 
@@ -23,7 +21,7 @@ Go、PHP、TypeScript、MySQL などを主に使用しています。
 
 ## 職務経歴
 
-### AI 学科 1年生 Web 開発 非常勤講師 | 学校法人コンピュータ総合学園 神戸電子専門学校
+### **AI 学科 1年生 Web 開発 非常勤講師** | 学校法人コンピュータ総合学園 神戸電子専門学校
 
 *神戸, 日本 | 2026年4月 - 現在*
 
